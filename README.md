@@ -1,2 +1,2 @@
 # Devops
-Em contrucao
+utilidade para o dia-a-dia
